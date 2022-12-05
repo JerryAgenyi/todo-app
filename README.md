@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerryAgenyi.
 - 👀 I’m interested in building clean, fast websites and applications.
-- 🌱 I’m currently learning JavaScript. vue.js or react.js on my mind...I'll pick one to fly with TailWindCSS.
+- 🌱 I’m currently learning JavaScript. vue.js or react.js on my mind...to fly fast with TailWindCSS.
 - 💞️ I’m looking to collaborate on projects solving global health issues.
 - 📫 How to reach me is best via twitter.com/jerryagenyi.
 
